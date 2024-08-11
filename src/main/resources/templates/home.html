@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+<head th:replace="~{fragments/header-fragment.html :: head}"></head>
+<body>
+
+<form th:action="@{/findArticles}" class="row">
+  <input type="text" name="query">
+  <button type="submit">Search</button>
+</form>
+
+<div th:each="article : ${articles}" class="col">
+  <div class="col">
+    <img th:src="${article.urlToImage}" class="article-image">
+    <h1 th:text="${article.title}"></h1>
+    <p th:text="${article.description}"></p>
+    <a th:href="${article.url}" target="_blank">Read more</a>
+  </div>
+</div>
+
+
+</body>
+</html>
+

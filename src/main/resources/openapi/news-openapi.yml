@@ -1,0 +1,97 @@
+openapi: 3.0.0
+info:
+  title: News API
+  description: API to get top headlines based on user preferences
+  version: 1.0.0
+paths:
+  /api/news:
+    get:
+      tags:
+        - News
+      summary: Get top headlines
+      operationId: getTopHeadlines
+      parameters:
+        - name: country
+          in: query
+          required: true
+          schema:
+            type: string
+        - name: page
+          in: query
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          schema:
+            type: integer
+            default: 3
+      responses:
+        '200':
+          description: Successfully retrieved top headlines
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ArticlePageable"
+
+components:
+  schemas:
+
+    SourceDTO:
+      type: object
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+
+    ArticleDTO:
+      type: object
+      properties:
+        source:
+          $ref: "#/components/schemas/SourceDTO"
+        author:
+          type: string
+        title:
+          type: string
+        description:
+          type: string
+        url:
+          type: string
+        urlToImage:
+          type: string
+        publishedAt:
+          type: string
+          format: date-time
+        content:
+          type: string
+
+    Paging:
+      type: object
+      description: Paging information
+      required: #variables declared in the 'required' section are going to be passed in constructor
+        - offset
+        - limit
+      properties:
+        offset:
+          type: integer
+        limit:
+          type: integer
+        totalElements:
+          type: integer
+        totalPages:
+          type: integer
+        currentPage:
+          type: integer
+
+    ArticlePageable:
+      title: ArticlePageable
+      properties:
+        data:
+          type: array
+          uniqueItems: true
+          items:
+            $ref: '#/components/schemas/ArticleDTO'
+        paging:
+          $ref: '#/components/schemas/Paging'
+
