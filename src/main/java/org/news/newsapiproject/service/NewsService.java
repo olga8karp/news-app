@@ -13,6 +13,7 @@ import org.news.newsapiproject.model.ArticlePageable;
 import org.news.newsapiproject.model.Paging;
 import org.news.newsapiproject.model.SourcesResponse;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
@@ -32,8 +33,8 @@ public class NewsService {
     @Value("${requests.everything}")
     private String everythingRequest;
 
-    public NewsService(RestTemplate restTemplate, NewsParser parser) {
-        this.restTemplate = restTemplate;
+    public NewsService(RestTemplateBuilder restTemplateBuilder, NewsParser parser) {
+        this.restTemplate = restTemplateBuilder.build();
         this.parser = parser;
     }
 
