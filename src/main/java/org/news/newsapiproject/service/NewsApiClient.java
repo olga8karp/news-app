@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 @Service
-public class NewsService {
+public class NewsApiClient {
 
     private final RestTemplate restTemplate;
     private final NewsParser parser;
@@ -33,7 +33,7 @@ public class NewsService {
     @Value("${requests.everything}")
     private String everythingRequest;
 
-    public NewsService(RestTemplateBuilder restTemplateBuilder, NewsParser parser) {
+    public NewsApiClient(RestTemplateBuilder restTemplateBuilder, NewsParser parser) {
         this.restTemplate = restTemplateBuilder.build();
         this.parser = parser;
     }

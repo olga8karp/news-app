@@ -3,7 +3,7 @@ package org.news.newsapiproject.api;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.news.newsapiproject.model.ArticlePageable;
-import org.news.newsapiproject.service.NewsService;
+import org.news.newsapiproject.service.NewsApiClient;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
@@ -14,12 +14,12 @@ import org.springframework.web.bind.annotation.RestController;
 @Slf4j
 public class NewsController implements NewsApi {
 
-    private final NewsService newsService;
+    private final NewsApiClient newsApiClient;
 
     @Override
     public ResponseEntity<ArticlePageable> getTopHeadlines(String country, Integer page, Integer size) {
         log.info("Request received: " + country);
         Pageable paging = PageRequest.of(page, size);
-        return ResponseEntity.ok(newsService.getTopHeadlines(country, paging));
+        return ResponseEntity.ok(newsApiClient.getTopHeadlines(country, paging));
     }
 }

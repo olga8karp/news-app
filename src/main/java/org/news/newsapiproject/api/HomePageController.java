@@ -7,7 +7,7 @@ import org.news.newsapiproject.entity.Source;
 import org.news.newsapiproject.model.ArticleDTO;
 import org.news.newsapiproject.model.Countries;
 import org.news.newsapiproject.model.Languages;
-import org.news.newsapiproject.service.NewsService;
+import org.news.newsapiproject.service.NewsApiClient;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 @Controller
 @AllArgsConstructor
 public class HomePageController {
-    private NewsService newsService;
+    private NewsApiClient newsApiClient;
 
     @RequestMapping("/")
     public String getHomePage(Model model) {
@@ -29,9 +29,9 @@ public class HomePageController {
 
     @RequestMapping("/findArticles")
     public String findArticles(Model model, @RequestParam("query") String query) {
-        Set<ArticleDTO> articleDTOS = newsService.getAllArticles(query);
+        Set<ArticleDTO> articleDTOS = newsApiClient.getAllArticles(query);
         model.addAttribute("articles", articleDTOS);
-        List<Source> sources = newsService.getSources();
+        List<Source> sources = newsApiClient.getSources();
         model.addAttribute("sources", sources);
         Languages languages = new Languages();
         model.addAttribute("languages", languages.getLanguages());
