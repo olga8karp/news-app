@@ -2,40 +2,38 @@ package org.news.newsapiproject.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
 
+import org.news.newsapiproject.config.NewsApiConfigurationProperties;
 import org.news.newsapiproject.entity.Source;
 import org.news.newsapiproject.model.ArticleDTO;
 import org.news.newsapiproject.model.ArticlePageable;
 import org.news.newsapiproject.model.Paging;
 import org.news.newsapiproject.model.SourcesResponse;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
+import org.springframework.web.util.UriComponentsBuilder;
 
 @Service
 public class NewsApiClient {
 
     private final RestTemplate restTemplate;
+    private final NewsApiConfigurationProperties configurationProperties;
     private final NewsParser parser;
 
-    @Value("${newsapi.key}")
     private String apiKey;
 
-    @Value("${requests.topHeadlines}")
-    private String topHeadlinesRequest;
-
-    @Value("${requests.everything}")
-    private String everythingRequest;
-
-    public NewsApiClient(RestTemplateBuilder restTemplateBuilder, NewsParser parser) {
+    public NewsApiClient(
+            RestTemplateBuilder restTemplateBuilder,
+            NewsApiConfigurationProperties configurationProperties,
+            NewsParser parser) {
         this.restTemplate = restTemplateBuilder.build();
+        this.configurationProperties = configurationProperties;
         this.parser = parser;
+        this.apiKey = configurationProperties.getApiKey();
     }
 
     public ArticlePageable getTopHeadlines(String country, Pageable pageable) {
@@ -59,17 +57,23 @@ public class NewsApiClient {
     }
 
     private String createRequestUrl(String country, String apiKey, int pageNumber, int pageSize) {
-        return topHeadlinesRequest
-            + "?country=" + country
-            + "&apiKey=" + apiKey
-            + "&page=" + pageNumber
-            + "&pageSize=" + pageSize;
+        return UriComponentsBuilder.fromHttpUrl(configurationProperties.getBaseUrl())
+                .path("/top-headlines")
+                .queryParam("country", country)
+                .queryParam("apiKey", apiKey)
+                .queryParam("page", pageNumber)
+                .queryParam("pageSize", pageSize)
+                .encode()
+                .toUriString();
     }
 
     private String createEverythingRequest(String query, String apiKey){
-        return everythingRequest
-            + "?q=" + query
-            + "&apiKey=" + apiKey;
+        return UriComponentsBuilder.fromHttpUrl(configurationProperties.getBaseUrl())
+                .path("/everything")
+                .queryParam("q", query)
+                .queryParam("apiKey", apiKey)
+                .encode()
+                .toUriString();
     }
 
     public Set<ArticleDTO> getAllArticles(String query) {
@@ -83,10 +87,17 @@ public class NewsApiClient {
     }
 
     public List<Source> getSources() {
-        Map<String, String> vars = new HashMap<>();
-        vars.put("apiKey", apiKey);
-        SourcesResponse response = restTemplate.getForObject("https://newsapi.org/v2/sources?apiKey={apiKey}", SourcesResponse.class, vars);
+        String url = createSourcesRequestUrl(apiKey);
+        SourcesResponse response = restTemplate.getForObject(url, SourcesResponse.class);
         return response.getSources();
+    }
+
+    private String createSourcesRequestUrl(String apiKey) {
+        return UriComponentsBuilder.fromHttpUrl(configurationProperties.getBaseUrl())
+                .path("/sources")
+                .queryParam("apiKey", apiKey)
+                .encode()
+                .toUriString();
     }
 
 }
