@@ -85,7 +85,7 @@ public class NewsApiClient {
     public List<Source> getSources() {
         Map<String, String> vars = new HashMap<>();
         vars.put("apiKey", apiKey);
-        SourcesResponse response = restTemplate.getForObject("https://newsapi.org/v2/top-headlines/sources?apiKey={apiKey}", SourcesResponse.class, vars);
+        SourcesResponse response = restTemplate.getForObject("https://newsapi.org/v2/sources?apiKey={apiKey}", SourcesResponse.class, vars);
         return response.getSources();
     }
 

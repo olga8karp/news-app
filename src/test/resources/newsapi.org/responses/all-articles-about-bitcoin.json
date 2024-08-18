@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 6407,
+  "articles": [
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Jessica Klein",
+    "title": "Bitcoin Bros Go Wild for Donald Trump",
+    "description": "At Bitcoin 2024 conference in Nashville, Trump is finally telling crypto enthusiasts what they want to hear.",
+    "url": "https://www.wired.com/story/bitcoin-bros-go-wild-for-donald-trump/",
+    "urlToImage": "https://media.wired.com/photos/66a56f21bf2909f08a634953/191:100/w_1280,c_limit/Crypto-Bros-Business-2162975355.jpg",
+    "publishedAt": "2024-07-28T12:43:07Z",
+    "content": "Trumps speech is an hour behind. A half hour into the wait, restless attendees start chanting Trump. The woman sitting in front of me murmurs her own chant:\r\nBitcoin, bitcointhats what they should be… [+3147 chars]"
+  },
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Steven Levy",
+    "title": "Trump's Crypto Embrace Could Be a Disaster for Bitcoin",
+    "description": "At the Bitcoin 2024 conference in Nashville, Donald Trump promised the crypto community the moon. They'd better hope they don't get it.",
+    "url": "https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/",
+    "urlToImage": "https://media.wired.com/photos/66ab594d0c0cc4819f595db4/191:100/w_1280,c_limit/073024_Crypto%20get%20rich%20quick.jpg",
+    "publishedAt": "2024-08-02T13:00:00Z",
+    "content": "Donald Trump is an unlikely crypto ally. The power of bitcoin, embodied in Satoshi Nakamotos founding document, is that it frees participants from murky assessments of trust, instead relying on the b… [+4248 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Harri Weber",
+    "title": "Trump Promises to Make U.S. the ‘Crypto Capital of the Planet and the Bitcoin Superpower’",
+    "description": "The former president drew cheers at the 2024 Bitcoin Conference after saying he'll \"fire\" Biden-nominated SEC Chair Gary Gensler.",
+    "url": "https://gizmodo.com/trump-promises-to-make-u-s-the-crypto-capital-of-the-planet-and-the-bitcoin-superpower-2000480037",
+    "urlToImage": "https://gizmodo.com/app/uploads/2024/07/Screenshot-2024-07-27-at-1.02.37 PM.jpg",
+    "publishedAt": "2024-07-27T20:59:48Z",
+    "content": "Speaking to a crowd of supporters at the Bitcoin 2024 Conference in Nashville, Tennessee, former president and Republican nominee Donald Trump said he would make the U.S. the “crypto capital of the p… [+2326 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slashdot.org"
+    },
+    "author": "Slashdot Staff",
+    "title": "RFK Jr. Says He'd Direct the Government to Buy $615 Billion in Bitcoin or 4 Million Bitcoins",
+    "description": "US presidential candidate, Robert F. Kennedy Jr., announced during his keynote Friday at the Bitcoin Conference that he would direct the US government to buy Bitcoin until the size of its Bitcoin reserves matched its gold reserves. At current prices, that equ…",
+    "url": "https://news.slashdot.org/story/24/07/26/239214/rfk-jr-says-hed-direct-the-government-to-buy-615-billion-in-bitcoin-or-4-million-bitcoins",
+    "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+    "publishedAt": "2024-07-26T23:03:00Z",
+    "content": "... a position of dominance that no other country will be able to usurp.\r\nWhy and who cares? Trading money for a different kind of money give us \"dominance\"? What part of your brain did that worm eat… [+237 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Passant Rabie",
+    "title": "Crypto Bro Charters Private SpaceX Mission to Earth’s Poles",
+    "description": "Fram2 could fly as early as this year, marking SpaceX's seventh private crew of astronauts.",
+    "url": "https://gizmodo.com/crypto-bro-charters-private-spacex-mission-to-earths-poles-2000486329",
+    "urlToImage": "https://gizmodo.com/app/uploads/2024/08/SpaceX-Private-Mission.jpeg",
+    "publishedAt": "2024-08-13T16:05:37Z",
+    "content": "A private crew of astronauts that includes a cinematographer and an explorer, and commanded by a wealthy bitcoin entrepreneur, will be the first human spaceflight to go over Earth’s polar region.\r\nSp… [+2136 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Crypto asset firm Grayscale has lost $20 billion in Bitcoin and Ethereum ETFs",
+    "description": "Leading crypto-specific asset manager Grayscale Investments has lost over $20.4 billion through outflows from its Bitcoin (BTC) and Ethereum (ETH)… Continue reading Crypto asset firm Grayscale has lost $20 billion in Bitcoin and Ethereum ETFs\nThe post Crypto …",
+    "url": "https://readwrite.com/grayscale-bitcoin-ethereum-etf-losses-20-billion/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/6f232dbd-27a0-45f2-87c6-639075c6ef40.webp",
+    "publishedAt": "2024-07-30T20:41:13Z",
+    "content": "Leading crypto-specific asset manager Grayscale Investments has lost over $20.4 billion through outflows from its Bitcoin (BTC) and Ethereum (ETH) exchange-traded funds (ETFs).\r\nAccording to data gat… [+2456 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "US strategic Bitcoin reserve to be financed by revaluing Fed’s gold",
+    "description": "United States’ strategic Bitcoin (BTC) reserve would be partly financed by revaluing gold certificates held by the Federal Reserve System,… Continue reading US strategic Bitcoin reserve to be financed by revaluing Fed’s gold\nThe post US strategic Bitcoin rese…",
+    "url": "https://readwrite.com/us-strategic-bitcoin-reserve-to-be-financed-by-fed-gold/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/b39a34b3-1c6a-47b1-ade2-fb55f8ae2510.webp",
+    "publishedAt": "2024-07-31T14:22:25Z",
+    "content": "United States’ strategic Bitcoin (BTC) reserve would be partly financed by revaluing gold certificates held by the Federal Reserve System, draft legislation shows.\r\nAccording to a July 30 Coindesk re… [+2038 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Jersey City Pension Fund to Invest in Bitcoin ETFs",
+    "description": "Jersey City Mayor Steven Fulop announced on Thursday that the city’s municipal pension plan will soon invest in Bitcoin (BTC)… Continue reading Jersey City Pension Fund to Invest in Bitcoin ETFs\nThe post Jersey City Pension Fund to Invest in Bitcoin ETFs appe…",
+    "url": "https://readwrite.com/jersey-city-pension-fund-to-invest-in-bitcoin-etfs/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/bd71c2e9-e4c9-4897-bc5e-1ccff22dc577.webp",
+    "publishedAt": "2024-07-26T15:14:38Z",
+    "content": "Jersey City Mayor Steven Fulop announced on Thursday that the city’s municipal pension plan will soon invest in Bitcoin (BTC) through exchange-traded funds (ETFs).\r\nNot my normal subject matter in a … [+2136 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Bitcoin surges past $68,000 amid continued ETF inflows",
+    "description": "Bitcoin (BTC) breached the $68,000 resistance level during Sunday night trading in Eastern Standard Time, continuing its upward trajectory. According… Continue reading Bitcoin surges past $68,000 amid continued ETF inflows\nThe post Bitcoin surges past $68,000…",
+    "url": "https://readwrite.com/bitcoin-surges-past-68000-amid-continued-etf-inflows/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/e009442e-4fcb-42c5-a9a5-d29a19a4fce0.webp",
+    "publishedAt": "2024-07-22T14:07:42Z",
+    "content": "Bitcoin (BTC) breached the $68,000 resistance level during Sunday night trading in Eastern Standard Time, continuing its upward trajectory.\r\nAccording to CoinMarketCap data, the leading cryptocurrenc… [+2189 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Mt. Gox Moves Another $2.5B of Bitcoin",
+    "description": "Mt. Gox, the defunct cryptocurrency exchange, has transferred 37,477 Bitcoin (BTC), valued at approximately $2.5 billion, to an unidentified wallet… Continue reading Mt. Gox Moves Another $2.5B of Bitcoin\nThe post Mt. Gox Moves Another $2.5B of Bitcoin appear…",
+    "url": "https://readwrite.com/mt-gox-bitcoin-wallet-billion/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/2e61124b-41ff-4d14-8c83-214fbd93c644.webp",
+    "publishedAt": "2024-07-25T03:21:08Z",
+    "content": "Chat history ChatGPT ChatGPT Explore GPTs Today Mt. Gox Bitcoin Transfer CrowdStrike Apology Backlash SEC Approves Ethereum ETFs Previous 7 Days Xbox 360 Marketplace Discounts College Football 25 Rev… [+6118 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Donald Trump raises $25M during Bitcoin 2024 conference",
+    "description": "Republican presidential candidate Donald Trump raised $25 million during the The Bitcoin 2024 conference. Fox Business reporter Eleanor Terrett announced that… Continue reading Donald Trump raises $25M during Bitcoin 2024 conference\nThe post Donald Trump rais…",
+    "url": "https://readwrite.com/donald-trump-raises-25m-during-bitcoin-2024-conference/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/21a7fe68-8fbd-44c2-8955-162a8d23f326.webp",
+    "publishedAt": "2024-07-31T11:57:00Z",
+    "content": "Republican presidential candidate Donald Trump raised $25 million during the The Bitcoin 2024 conference.\r\nFox Business reporter Eleanor Terrett announced that Trump raised an undisclosed amount of f… [+1883 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Trump fights for the crypto vote at Bitcoin conference",
+    "description": "At the Bitcoin 2024 conference in Nashville, Tennessee, former President Donald Trump delivered a keynote speech. Trump, the Republican presidential… Continue reading Trump fights for the crypto vote at Bitcoin conference\nThe post Trump fights for the crypto …",
+    "url": "https://readwrite.com/trump-crypto-bitcoin-conference/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/8483c1b4-7ea2-47a9-a0b2-b50d58578a99.webp",
+    "publishedAt": "2024-07-29T16:21:50Z",
+    "content": "At the Bitcoin 2024 conference in Nashville, Tennessee, former President Donald Trump delivered a keynote speech.\r\nTrump, the Republican presidential candidate, used the platform to appeal to the tec… [+3450 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Bitcoin and wider crypto market tumbles as global stocks falter",
+    "description": "Bitcoin (BTC) experienced a sharp 3% decline at the onset of Asian trading, mirroring a broader downturn in stock markets… Continue reading Bitcoin and wider crypto market tumbles as global stocks falter\nThe post Bitcoin and wider crypto market tumbles as glo…",
+    "url": "https://readwrite.com/cryptocurrency-bitcoin-market-tumbles-as-global-stocks-falter/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/7ef838ca-e7d5-4e5f-84b3-257b30922fcd.webp",
+    "publishedAt": "2024-07-25T16:24:02Z",
+    "content": "Bitcoin (BTC) experienced a sharp 3% decline at the onset of Asian trading, mirroring a broader downturn in stock markets and diminishing appetite for high-risk assets.\r\nThis follows Bitcoin surging … [+1904 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Lucas Ropek",
+    "title": "This Could Be the Beginning of the End of Trump’s Love for Crypto Cash",
+    "description": "The Donald chose the wrong time to get into web3.",
+    "url": "https://gizmodo.com/this-could-be-the-beginning-of-the-end-of-trumps-love-for-crypto-cash-2000483266",
+    "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Trump_makes_a_-weird_face_at_a_campaign_rally-.jpg",
+    "publishedAt": "2024-08-05T21:35:52Z",
+    "content": "Donald Trump’s honeymoon with the cryptocurrency industry may be over. At the very least, the campaign contributions in Dogecoin he received last month are probably a lot less valuable right now than… [+3766 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slashdot.org"
+    },
+    "author": "EditorDavid",
+    "title": "Edward Snowden Skeptical of Politicians at Bitcoin Conference - and Public Ledgers",
+    "description": "Former U.S. president Donald Trump spoke at Nashville's Bitcoin Conference on Saturday. \n\nBut he wasn't the only one there making headlines, according to a local newspaper called the Tennesseean:\n\nRepublican Sens. Cynthia Lummis and Tim Scott pledged their re…",
+    "url": "https://politics.slashdot.org/story/24/07/28/0447203/edward-snowden-skeptical-of-politicians-at-bitcoin-conference---and-public-ledgers",
+    "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+    "publishedAt": "2024-07-28T11:34:00Z",
+    "content": "Former U.S. president Donald Trump spoke at Nashville's Bitcoin Conference on Saturday.But he wasn't the only one there making headlines, according to a local newspaper called the Tennesseean:\r\nRepub… [+3475 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Bitcoin approaches $70,000 in six-week high amid Trump support",
+    "description": "CoinMarketCap data shows that Bitcoin’s (BTC) price approached $70,000 on Monday, reaching a six-week high following former U.S. President Donald… Continue reading Bitcoin approaches $70,000 in six-week high amid Trump support\nThe post Bitcoin approaches $70,…",
+    "url": "https://readwrite.com/bitcoin-price-trump-cryptocurrency/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/32f89dce-300f-4e5c-af49-baf9c1219b2b.webp",
+    "publishedAt": "2024-07-29T18:18:27Z",
+    "content": "CoinMarketCap data shows that Bitcoin’s (BTC) price approached $70,000 on Monday, reaching a six-week high following former U.S. President Donald Trump’s renewed support for cryptocurrency over the w… [+2131 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Kamala Harris considers Bitcoin conference: blue crypto shift?",
+    "description": "Recent developments suggest a possible realignment in political attitudes towards cryptocurrencies, with both Vice President Kamala Harris and former President… Continue reading Kamala Harris considers Bitcoin conference: blue crypto shift?\nThe post Kamala Ha…",
+    "url": "https://readwrite.com/kamala-harris-considers-bitcoin-conference-blue-crypto-shift/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/586be38c-f84f-4b21-b208-a72bef4e52aa.webp",
+    "publishedAt": "2024-07-25T03:27:10Z",
+    "content": "Recent developments suggest a possible realignment in political attitudes towards cryptocurrencies, with both Vice President Kamala Harris and former President Donald Trump at the center of speculati… [+2765 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Kwan Wei Kevin Tan",
+    "title": "Mark Cuban says Silicon Valley's bet on Trump is a 'Bitcoin play'",
+    "description": "Cuban said that tech executives aren't drawn to Trump because he is a \"far stronger proponent of crypto\" but for his policies which will drive prices.",
+    "url": "https://www.businessinsider.com/mark-cuban-silicon-valley-bet-on-trump-bitcoin-play-2024-7",
+    "urlToImage": "https://i.insider.com/66987878fb2b6bedb05829f5?width=1200&format=jpeg",
+    "publishedAt": "2024-07-18T03:36:14Z",
+    "content": "\"Shark Tank\" star Mark Cuban said that Silicon Valley's support for former President Donald Trump is a \"Bitcoin play.\"Brian Fluharty via Getty Images; Kamil Krzaczynski/AFP via Getty Images\r\n<ul><li>… [+4421 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Hope C",
+    "title": "BlackRock's IBIT Bitcoin ETF Sees Highest Inflows Since March",
+    "description": "BlackRock’s spot Bitcoin exchange-traded fund (ETF) has experienced its largest inflow in over four months.",
+    "url": "https://finance.yahoo.com/news/blackrocks-ibit-bitcoin-etf-sees-081039300.html",
+    "urlToImage": "https://media.zenfs.com/en/coinmarketcap_783/861990b4d3f801375723f75ec322858e",
+    "publishedAt": "2024-07-23T08:10:39Z",
+    "content": "BlackRock's IBIT Bitcoin ETF Sees Highest Inflows Since March\r\nBlackRocks spot Bitcoin exchange-traded fund (ETF) has experienced its largest inflow in over four months. The iShares Bitcoin Trust (IB… [+1249 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Crypto sees volatility after Joe Biden’s withdrawal",
+    "description": "The cryptocurrency market witnessed significant turbulence shortly after U.S. President Joe Biden announced his withdrawal from the 2024 presidential election.… Continue reading Crypto sees volatility after Joe Biden’s withdrawal\nThe post Crypto sees volatili…",
+    "url": "https://readwrite.com/crypto-sees-volatility-after-joe-bidens-withdrawal/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/208028c4-3f4a-4bfa-b096-e4413eba0bd5.webp",
+    "publishedAt": "2024-07-22T16:22:34Z",
+    "content": "The cryptocurrency market witnessed significant turbulence shortly after U.S. President Joe Biden announced his withdrawal from the 2024 presidential election.\r\nWithin a 30-minute window, nearly $67 … [+1921 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Lucas Ropek",
+    "title": "Kamala Harris Wants to Get Closer to Crypto Bros, If They’ll Let Her",
+    "description": "Cryptocurrency has become the latest flashpoint in the presidential candidates' war for the soul of Silicon Valley.",
+    "url": "https://gizmodo.com/kamala-harris-wants-to-get-closer-to-crypto-bros-if-theyll-let-her-2000480701",
+    "urlToImage": "https://gizmodo.com/app/uploads/2019/05/oqakhahoqrr6i0b6qu50.jpg",
+    "publishedAt": "2024-07-30T13:30:20Z",
+    "content": "Over the past week, Kamala Harris has made it known that she plans on hitting the “reset” button when it comes to the cryptocurrency industry. Currently, there’s bad blood between crypto stans and th… [+6026 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Matt Novak",
+    "title": "North Korean Man Indicted for Ransomware Attacks on U.S. Health Care Companies",
+    "description": "Rim Jong Hyok allegedly targeted NASA and defense contractors as well.",
+    "url": "https://gizmodo.com/north-korean-man-indicted-for-ransomware-attacks-on-u-s-health-care-companies-2000479109",
+    "urlToImage": "https://gizmodo.com/app/uploads/2024/07/Screenshot-2024-07-25-at-11.39.25 AM.jpg",
+    "publishedAt": "2024-07-25T19:15:49Z",
+    "content": "A man allegedly working for North Korean intelligence was indicted by U.S. prosecutors on Thursday for conspiracy to hack computers at NASA and military bases, along with serious ransomware attacks a… [+2142 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Top Altcoins to Invest in Ahead of Bitcoin’s Next Bull Run – $BTC, $SOL, $ETH, $BNB, $XRP, and $99BTC",
+    "description": "With Bitcoin (BTC) surging and the market exhibiting greed according to the Fear and Greed Index, it’s an opportune time… Continue reading Top Altcoins to Invest in Ahead of Bitcoin’s Next Bull Run – $BTC, $SOL, $ETH, $BNB, $XRP, and $99BTC\nThe post Top Altco…",
+    "url": "https://readwrite.com/top-altcoins-to-invest-in-ahead-of-bitcoins-next-bull-run-btc-sol-eth-bnb-xrp-and-99btc/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/top-altcoins-to-invest-in-ahead-of-bitcoin-next-bull-run.jpg",
+    "publishedAt": "2024-07-31T19:36:05Z",
+    "content": "With Bitcoin (BTC) surging and the market exhibiting greed according to the Fear and Greed Index, it’s an opportune time to consider diversifying your portfolio with altcoin investments.\r\nWhile meme … [+6891 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slashdot.org"
+    },
+    "author": "EditorDavid",
+    "title": "Trump Says He'd Oppose CBDCs, Pardon Ulbricht, and Create a 'Strategic National Bitcoin Stockpile'",
+    "description": "Speaking at the Bitcoin Conference in Nashville, Republican presidential nominee Donald Trump made a number of cryptocurrency-related pledges. \n\nIn a speech which lasted for over an hour, the 78-year-old former president also criticized his political opponent…",
+    "url": "https://politics.slashdot.org/story/24/07/27/2141234/trump-says-hed-oppose-cbdcs-pardon-ulbricht-and-create-a-strategic-national-bitcoin-stockpile",
+    "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+    "publishedAt": "2024-07-27T21:45:00Z",
+    "content": "JD Vance's couch / love of dolphins / dolphin couches.\r\nObviously, supporting Trump's \"drill, baby, drill\" position\r\n...\r\n:-)\r\nMore seriously on that note, does Trump, and his followers, know the U.S… [+454 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "CoinDesk",
+    "title": "Could Sen. Lummis' Bitcoin Legislation Slash National Debt?",
+    "description": "CoinDesk's Jennifer Sanasie takes a look back at what happened during the Bitcoin Conference in Nashville over the weekend, including former President Donald...",
+    "url": "https://finance.yahoo.com/video/could-sen-lummis-bitcoin-legislation-192151604.html",
+    "urlToImage": "https://media.zenfs.com/en/coindesk_75/de6bfcb451c94e994d6577f46c7df4dc",
+    "publishedAt": "2024-07-29T19:21:51Z",
+    "content": "CoinDesk's Jennifer Sanasie takes a look back at what happened during the Bitcoin Conference in Nashville over the weekend, including former President Donald Trump's promise of a \"strategic national … [+242 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Winklevoss twins donate $1M to challenge Elizabeth Warren",
+    "description": "Tyler and Cameron Winklevoss, co-founders of cryptocurrency exchange Gemini, have each contributed $500,000 in Bitcoin (BTC) to support efforts to… Continue reading Winklevoss twins donate $1M to challenge Elizabeth Warren\nThe post Winklevoss twins donate $1M…",
+    "url": "https://readwrite.com/winklevoss-twins-donate-1m-to-challenge-elizabeth-warren/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/6443cd08-3692-41ed-8283-b6e2a1f462fd.webp",
+    "publishedAt": "2024-07-19T14:04:26Z",
+    "content": "Tyler and Cameron Winklevoss, co-founders of cryptocurrency exchange Gemini, have each contributed $500,000 in Bitcoin (BTC) to support efforts to replace United States Senator Elizabeth Warren.\r\nThe… [+1958 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Yousra Anwar Ahmed",
+    "title": "What Happened in Crypto Today: Bullish Signals Are Finally Emerging!",
+    "description": "From Bitcoin bouncing back above 56K to permanent holders quietly scooping up BTCs, here is a 3-minute breakdown of everything important that happened in...",
+    "url": "https://finance.yahoo.com/news/happened-crypto-today-bullish-signals-101605599.html",
+    "urlToImage": "https://media.zenfs.com/en/coinmarketcap_783/872d2769b8fc1e2c4b485faa1bfad75c",
+    "publishedAt": "2024-08-07T10:16:05Z",
+    "content": "What Happened in Crypto Today: Bullish Signals Are Finally Emerging!\r\nIt's been an interesting week in crypto, to put it mildly.\r\nJust four days ago, when Bitcoin was hovering around $62K, we hinted … [+7004 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": null,
+    "title": "Bitcoin price crash: Why is the crypto market collapsing?",
+    "description": null,
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5f1ff72c-257b-4ef6-bc2a-c7c85f5106e9",
+    "urlToImage": null,
+    "publishedAt": "2024-08-05T14:29:22Z",
+    "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Elon Musk’s Support for Donald Trump Could Boost Dogecoin Price to $0.51",
+    "description": "The cryptocurrency market is experiencing a pivotal moment, attempting to break free from a two-month consolidation phase. This movement is… Continue reading Elon Musk’s Support for Donald Trump Could Boost Dogecoin Price to $0.51\nThe post Elon Musk’s Support…",
+    "url": "https://readwrite.com/elon-musks-support-for-donald-trump-could-boost-dogecoin-price-to-0-51/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/elon-musk-support-for-donald-trump-could-boost-dogecoin-price-to-051.jpg",
+    "publishedAt": "2024-07-23T16:31:12Z",
+    "content": "The cryptocurrency market is experiencing a pivotal moment, attempting to break free from a two-month consolidation phase.\r\nThis movement is challenged by significant whale activity, with large holde… [+7378 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Brent D. Griffiths",
+    "title": "Read JD Vance's financial disclosure, which includes at least $4 million in total assets and $250,000 in bitcoin",
+    "description": "JD Vance's net worth easily totals into the millions, following a bestselling book and a stint in venture capital.",
+    "url": "https://www.businessinsider.com/read-jd-vance-financial-disclosure-net-worth-bitcoin-fec-report-2024-8",
+    "urlToImage": "https://i.insider.com/66bbaae95da406397bf58292?width=1200&format=jpeg",
+    "publishedAt": "2024-08-13T19:14:16Z",
+    "content": "Sen. JD Vance of Ohio filed his required financial disclosure as the Republican vice presidential nominee.Anna Moneymaker/Getty\r\n<ul><li>Sen. JD Vance of Ohio filed his required annual financial disc… [+1786 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Mariella Moon",
+    "title": "North Korean who used ransomware to attack US healthcare providers has been indicted",
+    "description": "A grand jury in Kansas City has indicted Rim Jong Hyok, a North Korean intelligence operative who allegedly used ransomware to attack health providers' systems in the US, according to AP News. The State Department said Rim is part of a group called Andariel t…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5cf6a931-8e48-4282-baa8-9d59f3270937",
+    "urlToImage": null,
+    "publishedAt": "2024-07-26T14:00:08Z",
+    "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "High-Potential Meme Coin Presales That Could Offer Explosive Returns – $MGMES, $SHIBASHOOT, and $PEPU",
+    "description": "As the current bull run progresses, it is imperative to examine three promising meme coins. Bitcoin is back, and its… Continue reading High-Potential Meme Coin Presales That Could Offer Explosive Returns – $MGMES, $SHIBASHOOT, and $PEPU\nThe post High-Potentia…",
+    "url": "https://readwrite.com/high-potential-meme-coin-presales-that-could-offer-explosive-returns-mgmes-shibashoot-and-pepu/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/high-potential-meme-coin-presales-that-could-offer-explosive-returns.jpg",
+    "publishedAt": "2024-07-30T19:39:36Z",
+    "content": "As the current bull run progresses, it is imperative to examine three promising meme coins. Bitcoin is back, and its resurgence is pumping the entire market.\r\nRetail investors are returning, and inte… [+6494 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bitcoinhaber.net"
+    },
+    "author": null,
+    "title": "Bitcoin Investors Buy Puts Aggressively",
+    "description": "Recent movements in the cryptocurrency market have drawn significant attention, particularly Bitcoin's volatility. After Bitcoin's price fell below $50,000, a",
+    "url": "https://en.bitcoinhaber.net/bitcoin-investors-buy-puts-aggressively",
+    "urlToImage": "https://en.bitcoinhaber.net/wp-content/uploads/2024/08/bitcoin-news-277.jpg",
+    "publishedAt": "2024-08-07T08:28:23Z",
+    "content": "Recent movements in the cryptocurrency market have drawn significant attention, particularly Bitcoins volatility. After Bitcoins price fell below $50,000, a key volatility indicator for the cryptocur… [+2403 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Top 5 Meme Coin Projects to Buy Now Before the End of July",
+    "description": "With Bitcoin back in the green, up 13% on the week at $66,000, and Ethereum seeing gains as ETFs prepare… Continue reading Top 5 Meme Coin Projects to Buy Now Before the End of July\nThe post Top 5 Meme Coin Projects to Buy Now Before the End of July appeared …",
+    "url": "https://readwrite.com/top-5-meme-coin-projects-to-buy-now-before-the-end-of-july/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/top-5-meme-coin-projects-to-buy-now-before-the-end-of-july.jpg",
+    "publishedAt": "2024-07-20T19:19:59Z",
+    "content": "With Bitcoin back in the green, up 13% on the week at $66,000, and Ethereum seeing gains as ETFs prepare to go live soon, the cryptocurrency market is beginning to look bullish again.\r\nWith the marke… [+7017 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Top 4 Meme Coins to Watch in the Upcoming Bull Market",
+    "description": "As the cryptocurrency market gears up for an anticipated bull run, Bitcoin will likely lead with significant gains, followed by… Continue reading Top 4 Meme Coins to Watch in the Upcoming Bull Market\nThe post Top 4 Meme Coins to Watch in the Upcoming Bull Mar…",
+    "url": "https://readwrite.com/top-4-meme-coins-to-watch-in-the-upcoming-bull-market/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/top-four-meme-coins-to-watch-in-the-upcoming-bull-market.jpg",
+    "publishedAt": "2024-07-30T10:19:38Z",
+    "content": "As the cryptocurrency market gears up for an anticipated bull run, Bitcoin will likely lead with significant gains, followed by major altcoins like Ethereum and Solana.\r\nFollowing that, popular meme … [+6435 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "US Ethereum ETFs see net outflows on second trading day",
+    "description": "On their second day of trading, United States-based spot Ethereum exchange-traded funds (ETFs) recorded net outflows of $113.3 million, according… Continue reading US Ethereum ETFs see net outflows on second trading day\nThe post US Ethereum ETFs see net outfl…",
+    "url": "https://readwrite.com/us-ethereum-etfs-see-net-outflows-on-second-trading-day/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/7ef838ca-e7d5-4e5f-84b3-257b30922fcd-1.webp",
+    "publishedAt": "2024-07-25T16:37:37Z",
+    "content": "On their second day of trading, United States-based spot Ethereum exchange-traded funds (ETFs) recorded net outflows of $113.3 million, according to data reported by Farside Investors. This negative … [+1879 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Matt Novak",
+    "title": "The Crypto Lobby Is Spending Big Money on Democrats, and Republicans Aren’t Happy",
+    "description": "Support for Democrats Rep. Ruben Gallego in Arizona and Rep. Elissa Slotkin in Michigan has raised eyebrows.",
+    "url": "https://gizmodo.com/the-crypto-lobby-is-spending-big-money-on-democrats-and-republicans-arent-happy-2000487283",
+    "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Ruben-Gallego-and-Kamala-Harris-getty-crypto.jpg",
+    "publishedAt": "2024-08-15T14:50:34Z",
+    "content": "The cryptocurrency industry has raised hundreds of millions of dollars to spend in the 2024 election on various races House and Senate throughout the U.S. And while crypto is generally associated wit… [+3275 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "The U.S. Election Could Potentially Fuel the Next Crypto Bull Run – Could This Layer 2 Meme Coin Take the Lead?",
+    "description": "The cryptocurrency market, including Bitcoin and Shiba Inu, is recovering strongly, which is a positive sign for new cryptocurrencies like… Continue reading The U.S. Election Could Potentially Fuel the Next Crypto Bull Run – Could This Layer 2 Meme Coin Take …",
+    "url": "https://readwrite.com/the-u-s-election-could-potentially-fuel-the-next-crypto-bull-run-could-this-layer-2-meme-coin-take-the-lead/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/the-us-election-could-potentially-fuel-the-next-crypto-bull-run.jpg",
+    "publishedAt": "2024-07-24T10:31:21Z",
+    "content": "The cryptocurrency market, including Bitcoin and Shiba Inu, is recovering strongly, which is a positive sign for new cryptocurrencies like Pepe Unchained.\r\nAs investor confidence grows and the market… [+4454 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "New Learn-to-Earn Crypto ICO Ending in 10 Days – Invest in 99BTC Before It Sells Out",
+    "description": "Investors have only a few days left to join the hottest crypto presale today, with predictions that the next token… Continue reading New Learn-to-Earn Crypto ICO Ending in 10 Days – Invest in 99BTC Before It Sells Out\nThe post New Learn-to-Earn Crypto ICO End…",
+    "url": "https://readwrite.com/new-learn-to-earn-crypto-ico-ending-in-10-days-invest-in-99btc-before-it-sells-out/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/new-learn-to-earn-crypto-ico-ending-in-ten-days.jpg",
+    "publishedAt": "2024-07-28T12:14:23Z",
+    "content": "Investors have only a few days left to join the hottest crypto presale today, with predictions that the next token will explode upon its IEO.\r\nWith more than $2.5 million already raised in the 99Bitc… [+4148 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "jsor@businessinsider.com (Jennifer Sor)",
+    "title": "Stock market today: Dow jumps 285 points as traders try to extend comeback from big sell-off",
+    "description": "The Bank of Japan suggested on Wednesday it would pause rate hikes in the near-term, bolstering investor sentiment.",
+    "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-rally-interest-rates-fed-boj-carry-trade-2024-8",
+    "urlToImage": "https://i.insider.com/66b378f5a5247369a3ea253d?width=1200&format=jpeg",
+    "publishedAt": "2024-08-07T13:45:50Z",
+    "content": "US stocks jumped on Wednesday after the Bank of Japan issued guidance on interest rates and traders attempted to extend the rebound in stocks. All three benchmark indexes ticked higher, with the Dow … [+1689 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Proton.me"
+    },
+    "author": "Andy Yen",
+    "title": "Proton Wallet – a safer way to hold Bitcoin",
+    "description": "Proton Wallet is an easy-to-use self-custodial wallet that makes financial freedom attainable for everyone.",
+    "url": "https://proton.me/blog/proton-wallet-launch",
+    "urlToImage": "https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1721750778/wp-pme/proton-wallet-blog-cover2x/proton-wallet-blog-cover2x.?_i=AA",
+    "publishedAt": "2024-07-24T11:13:31Z",
+    "content": "Published on July 24, 2024\r\nOur long-term vision is for Proton Wallet to be a digital wallet that gives you full control of your digital assets. While the type of assets that you can hold in Proton W… [+8566 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "The 99Bitcoins ICO Ends on August 6th – Top Crypto to Watch in 2024?",
+    "description": "New high-potential crypto 99Bitcoins (99BTC) has announced its presale closing date on August 6th at 2PM UTC, signaling to investors… Continue reading The 99Bitcoins ICO Ends on August 6th – Top Crypto to Watch in 2024?\nThe post The 99Bitcoins ICO Ends on Aug…",
+    "url": "https://readwrite.com/the-99bitcoins-ico-ends-on-august-6th-top-crypto-to-watch-in-2024/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/crypto-boy-99btc-presale-update.jpg",
+    "publishedAt": "2024-07-25T14:59:40Z",
+    "content": "New high-potential crypto 99Bitcoins (99BTC) has announced its presale closing date on August 6th at 2PM UTC, signaling to investors seeking potential high returns.\r\nThis trending crypto continues to… [+4394 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "How Learning Crypto with 99Bitcoins Can Be Rewarding – Last Chance to Buy",
+    "description": "Having raised $2.5 million in its token presale, 99Bitcoins is poised to revolutionize cryptocurrency investing. Designed as a user-friendly platform… Continue reading How Learning Crypto with 99Bitcoins Can Be Rewarding – Last Chance to Buy\nThe post How Lear…",
+    "url": "https://readwrite.com/how-learning-crypto-with-99bitcoins-can-be-rewarding-last-chance-to-buy/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/how-learning-crypto-can-be-rewarding-with-the-99bitcoins-learn-to-earn-model.jpg",
+    "publishedAt": "2024-07-30T17:03:31Z",
+    "content": "Having raised $2.5 million in its token presale, 99Bitcoins is poised to revolutionize cryptocurrency investing.\r\nDesigned as a user-friendly platform to simplify complex market dynamics, 99Bitcoins … [+4784 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Few Days Left for This AI Meme Coin Presale – Invest in WAI Before It Sells Out",
+    "description": "WienerAI (WAI), a meme coin with AI integration, nears the end of its presale with only 9 days remaining, so… Continue reading Few Days Left for This AI Meme Coin Presale – Invest in WAI Before It Sells Out\nThe post Few Days Left for This AI Meme Coin Presale…",
+    "url": "https://readwrite.com/few-days-left-for-this-ai-meme-coin-presale-invest-in-wai-before-it-sells-out/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/few-days-left-for-thi-ai-meme-coin-presale-invest-in-wai-before-it-sells-out.jpg",
+    "publishedAt": "2024-07-22T10:51:08Z",
+    "content": "WienerAI (WAI), a meme coin with AI integration, nears the end of its presale with only 9 days remaining, so investors should act quickly for potential high returns.\r\nThis timing is opportune, as the… [+5173 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "The Hottest Learn-to-Earn Crypto Presale Raises $2.5 Million – Next 100x Crypto Gem?",
+    "description": "The 99Bitcoins presale offers a great investment chance, driven by its Learn-to-Earn model and big staking rewards for early investors.… Continue reading The Hottest Learn-to-Earn Crypto Presale Raises $2.5 Million – Next 100x Crypto Gem?\nThe post The Hottest…",
+    "url": "https://readwrite.com/the-hottest-learn-to-earn-crypto-presale-raises-2-5-million-next-100x-crypto-gem/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/next-100x-crypto-gem-1.jpg",
+    "publishedAt": "2024-07-22T16:04:07Z",
+    "content": "The 99Bitcoins presale offers a great investment chance, driven by its Learn-to-Earn model and big staking rewards for early investors.\r\nThe growing interest in the project has pushed the $99BTC pres… [+4884 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Learn-to-Earn Token Presale Ends Soon – Invest Now Before the IEO",
+    "description": "It is predicted by some experts that many new investors will enter the market in the coming months, and they… Continue reading Learn-to-Earn Token Presale Ends Soon – Invest Now Before the IEO\nThe post Learn-to-Earn Token Presale Ends Soon – Invest Now Before…",
+    "url": "https://readwrite.com/learn-to-earn-token-presale-ends-soon-invest-now-before-the-ieo/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/learn-to-earn-token-presale-ends-soon-invest-now-before-the-ieo.jpeg",
+    "publishedAt": "2024-07-29T16:14:44Z",
+    "content": "It is predicted by some experts that many new investors will enter the market in the coming months, and they will definitely seek education or knowledge about Bitcoin and cryptocurrencies.\r\nOne of th… [+4504 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Goat-Themed Crypto Set for Explosive Growth This August – Could This Be the Next 100x Meme Coin to Watch?",
+    "description": "Launched just last month, RealGOAT has rapidly gained traction within the cryptocurrency community, surging by an impressive 95% since its… Continue reading Goat-Themed Crypto Set for Explosive Growth This August – Could This Be the Next 100x Meme Coin to Wat…",
+    "url": "https://readwrite.com/goat-themed-crypto-set-for-explosive-growth-this-august-could-this-be-the-next-100x-meme-coin-to-watch/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/goat-themed-crypto-set-for-explosive-growth-this-august.jpg",
+    "publishedAt": "2024-07-28T08:52:36Z",
+    "content": "Launched just last month, RealGOAT has rapidly gained traction within the cryptocurrency community, surging by an impressive 95% since its introduction to the market.\r\nThe token, positioned as a play… [+3546 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Trump courts crypto industry votes and campaign donations",
+    "description": "Donald Trump tells cryptocurrency leaders he will fire the head of the US Securities and Exchange Commission if he's re-elected president.",
+    "url": "https://www.bbc.com/news/articles/cne4n2xdylvo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2bf5/live/2c3c05f0-4c5f-11ef-8f0f-0577398c3339.jpg",
+    "publishedAt": "2024-07-27T22:25:15Z",
+    "content": "Donald Trump has told one of the largest cryptocurrency events of the year that if he is re-elected president he will fire the chairperson of the US Securities and Exchange Commission (SEC) on the fi… [+2944 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "CoinDesk",
+    "title": "Nvidia Becoming More Volatile Than Bitcoin and Ether",
+    "description": "Nvidia is expected to see more significant price swings than bitcoin and ether. The stock's 30-day options implied volatility, a gauge of anticipated price...",
+    "url": "https://finance.yahoo.com/video/nvidia-becoming-more-volatile-bitcoin-160019799.html",
+    "urlToImage": "https://media.zenfs.com/en/coindesk_75/ba4c53629f204a13b105c92151481211",
+    "publishedAt": "2024-07-31T16:00:19Z",
+    "content": "Nvidia is expected to see more significant price swings than bitcoin and ether. The stock's 30-day options implied volatility, a gauge of anticipated price swings over four weeks, has recently surged… [+124 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Base crypto donation platform launches for U.S. politicians",
+    "description": "A novel blockchain-based donation platform has emerged, enabling United States politicians to receive cryptocurrency contributions via the Coinbase-developed Base network.… Continue reading Base crypto donation platform launches for U.S. politicians\nThe post …",
+    "url": "https://readwrite.com/base-crypto-donation-platform-launches-for-u-s-politicians/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/bb52f118-8233-4c54-a2db-0cccc6518b7d.webp",
+    "publishedAt": "2024-07-23T14:15:24Z",
+    "content": "A novel blockchain-based donation platform has emerged, enabling United States politicians to receive cryptocurrency contributions via the Coinbase-developed Base network.\r\nThe platform, created by E… [+2050 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Spot Ethereum ETFs Set to Launch in US on July 23",
+    "description": "The Securities and Exchange Commission (SEC) has approved spot Ethereum exchange-traded funds (ETFs) to begin trading in the United States… Continue reading Spot Ethereum ETFs Set to Launch in US on July 23\nThe post Spot Ethereum ETFs Set to Launch in US on J…",
+    "url": "https://readwrite.com/spot-ethereum-etfs-set-to-launch-in-us-on-july-23/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/3fcb3228-6cde-4ae5-9797-9a38dd278d78.webp",
+    "publishedAt": "2024-07-23T17:32:29Z",
+    "content": "The Securities and Exchange Commission (SEC)has approved spot Ethereum exchange-traded funds (ETFs) to begin trading in the United States on July 23, 2024.\r\nThis decision comes after the SEC approved… [+1779 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Gala Technical Analysis and Price Prediction – Will GALA Surge 40x in 2024?",
+    "description": "The GALA token had a strong bounce back last Monday after a big drop, making it a top altcoin to… Continue reading Gala Technical Analysis and Price Prediction – Will GALA Surge 40x in 2024?\nThe post Gala Technical Analysis and Price Prediction – Will GALA Su…",
+    "url": "https://readwrite.com/gala-technical-analysis-and-price-prediction-will-gala-surge-40x-in-2024/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/gala-technical-analysis-and-price-prediction.jpg",
+    "publishedAt": "2024-07-31T14:54:57Z",
+    "content": "The GALA token had a strong bounce back last Monday after a big drop, making it a top altcoin to buy. The question is, what caused this recovery?\r\nIn this article, we’ll examine Gala Games from both … [+6692 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Experts Predict Pepe Will Surge 10x in the Coming Months – Should You Buy PEPE or Consider This Layer 2 Meme Coin?",
+    "description": "Experts predict a big surge for Pepe (PEPE), leading many investors to believe now is the best time to buy… Continue reading Experts Predict Pepe Will Surge 10x in the Coming Months – Should You Buy PEPE or Consider This Layer 2 Meme Coin?\nThe post Experts Pr…",
+    "url": "https://readwrite.com/experts-predict-pepe-will-surge-10x-in-the-coming-months-should-you-buy-pepe-or-consider-this-layer-2-meme-coin/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/pepe-price-prediction-1.jpg",
+    "publishedAt": "2024-07-31T12:32:20Z",
+    "content": "Experts predict a big surge for Pepe (PEPE), leading many investors to believe now is the best time to buy in.\r\nThe cryptocurrency market is on the rise. Market volume has jumped by 62%, and the Fear… [+5122 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Radek Zielinski",
+    "title": "Coinbase expands board with former OpenAI exec, clinton aide",
+    "description": "Leading US cryptocurrency exchange Coinbase has appointed three new members to its board of directors, expanding the board from seven… Continue reading Coinbase expands board with former OpenAI exec, clinton aide\nThe post Coinbase expands board with former Op…",
+    "url": "https://readwrite.com/coinbase-expands-board-with-former-openai-exec-clinton-aide/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/aeee0023-52cc-4e00-824b-c8cb7d04eef3.webp",
+    "publishedAt": "2024-07-26T14:30:42Z",
+    "content": "Leading US cryptocurrency exchange Coinbase has appointed three new members to its board of directors, expanding the board from seven to ten members.\r\nAccording to Reuters, the new board members incl… [+2145 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Threadreaderapp.com"
+    },
+    "author": null,
+    "title": "Google Strategy Doc from Antitrust Proceedings",
+    "description": "@jason_kint: wow. an amazing 325 page google strategy document quietly unsealed buried in google antitrust docket. It's gonna take a long thread but I have pulled out the gems. It's from 2017 planning, no doubt Goog...…",
+    "url": "https://threadreaderapp.com/thread/1821554841786683554.html",
+    "urlToImage": "https://threadreaderapp.com/images/screenshots/thread/1821554841786683554.jpg",
+    "publishedAt": "2024-08-10T04:28:35Z",
+    "content": "Support us! We are indie developers!\r\nThis site is made by just two indie developers on a laptop doing marketing, support and development! Read more about the story.\r\nBecome a Premium Member ($3/mont… [+395 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Threadreaderapp.com"
+    },
+    "author": null,
+    "title": "\"Does astrology work? We tested the ability of 152 astrologers\"",
+    "description": "@SpencrGreenberg: Does astrology work? We tested the ability of 152 astrologers to see if they could demonstrate genuine astrological skill. Here is how the study was designed and what we found (including a result t...…",
+    "url": "https://threadreaderapp.com/thread/1822663687145972105.html",
+    "urlToImage": "https://threadreaderapp.com/images/screenshots/thread/1822663687145972105.jpg",
+    "publishedAt": "2024-08-12T13:32:12Z",
+    "content": "Support us! We are indie developers!\r\nThis site is made by just two indie developers on a laptop doing marketing, support and development! Read more about the story.\r\nBecome a Premium Member ($3/mont… [+395 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": "Frances Yue",
+    "title": "Bitcoin prices climb as crypto recovers. Here’s how they could keep rebounding.",
+    "description": "Major cryptocurrencies continued to rebound on Thursday as global risk markets stabilized.",
+    "url": "https://www.marketwatch.com/story/bitcoin-prices-climb-as-crypto-recovers-heres-how-they-could-keep-rebounding-63af7e44",
+    "urlToImage": "https://images.mktw.net/im-278331/social",
+    "publishedAt": "2024-08-08T21:27:00Z",
+    "content": "Major cryptocurrencies continued to rebound on Thursday as global risk markets stabilized. \r\nBitcoin \r\nBTCUSD was up 8.6% to around $59,465 on Thursday afternoon, according to Dow Jones Market Data. … [+212 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "madams@businessinsider.com (Max Adams)",
+    "title": "Stock market today: Indexes climb as producer inflation comes in cool",
+    "description": "Stocks jumped after a cool PPI reading for July, setting the stage for consumer price inflation to show improvement when CPI is released Wednesday.",
+    "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-ppi-inflation-economy-interest-rates-earnings-djt-2024-8",
+    "urlToImage": "https://i.insider.com/631f874489d2b3001894b2e3?width=1200&format=jpeg",
+    "publishedAt": "2024-08-13T13:36:10Z",
+    "content": "US stocks were up on Tuesday after the producer price index for July showed wholesale inflation rose less than expected.\r\nData from the Bureau of Labor Statistics showed that producer prices increase… [+2502 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Schneier.com"
+    },
+    "author": "Bruce Schneier",
+    "title": "Criminal Gang Physically Assaulting People for Their Cryptocurrency",
+    "description": "This is pretty horrific:\n…a group of men behind a violent crime spree designed to compel victims to hand over access to their cryptocurrency savings. That announcement and the criminal complaint laying out charges against St. Felix focused largely on a single…",
+    "url": "https://www.schneier.com/blog/archives/2024/07/criminal-gang-physically-assaulting-people-for-their-cryptocurrency.html",
+    "urlToImage": null,
+    "publishedAt": "2024-07-18T15:33:18Z",
+    "content": "This is pretty horrific:\r\n…a group of men behind a violent crime spree designed to compel victims to hand over access to their cryptocurrency savings. That announcement and the criminal complaint lay… [+685 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Bitcoin miners are ditching crypto for the more profitable AI",
+    "description": "The Bitcoin mining reward has been reduced after Bitcoin halving, and that’s driving some companies to shift from Bitcoin mining centers to artificial intelligence data centers. Read more...",
+    "url": "https://qz.com/bitcoin-miners-ditching-crypto-for-more-profitable-ai-1851598502",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7ff9e7ac3c7fb9e724c50f58eb80000c.jpg",
+    "publishedAt": "2024-07-18T15:18:00Z",
+    "content": "The Bitcoin mining reward has been reduced after Bitcoin halving, and thats driving some companies to shift from Bitcoin mining centers to artificial intelligence data centers. \r\nIn a recent intervie… [+2345 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mmapped.blog"
+    },
+    "author": "Roman Kashitsyn",
+    "title": "Transaction models are programming paradigms",
+    "description": "Functional programming vs OOP, now on a blockchain.",
+    "url": "https://mmapped.blog/posts/30-transaction-models.html",
+    "urlToImage": null,
+    "publishedAt": "2024-08-16T14:45:53Z",
+    "content": "Many articles\r\nSee, for example, utxo vs. Account Models from Alchemy.\r\n explain the differences between the transaction models from the end users point of view.\r\nIn contrast, this section explores t… [+9465 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Rocio Fabbro",
+    "title": "Bitcoin nears $70,000, boosted by Trump's Bitcoin promises",
+    "description": "Bitcoin hit its highest level since early June after presumptive Republican nominee Donald Trump made sweeping promises about the cryptocurrency at a conference over the weekend.Read more...",
+    "url": "https://qz.com/bitcoin-price-donald-trump-conference-crypto-1851607449",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/24974ed28ac502f8b0761a599b1628e4.jpg",
+    "publishedAt": "2024-07-29T13:20:00Z",
+    "content": "Bitcoin hit its highest level since early June after presumptive Republican nominee Donald Trump made sweeping promises about the cryptocurrency at a conference over the weekend.\r\nThe price of the po… [+1829 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "5 Best Meme Coins to Buy and Hold – TodayTrader’s Top Picks for the Upcoming Bull Run",
+    "description": "As we enter August, we might see a positive trend in the crypto market, which could be a good sign… Continue reading 5 Best Meme Coins to Buy and Hold – TodayTrader’s Top Picks for the Upcoming Bull Run\nThe post 5 Best Meme Coins to Buy and Hold – TodayTrader…",
+    "url": "https://readwrite.com/5-best-meme-coins-to-buy-and-hold-todaytraders-top-picks-for-the-upcoming-bull-run/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/best-five-meme-coins-to-buy-and-hold.jpg",
+    "publishedAt": "2024-07-31T09:16:56Z",
+    "content": "As we enter August, we might see a positive trend in the crypto market, which could be a good sign for meme coins and their potential for significant growth.\r\nWe’re analyzing the Bitcoin chart, focus… [+6229 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "dogwifhat Price Prediction – Will WIF Hit $10 by Year’s End?",
+    "description": "With dogwifhat (WIF) price battling bearish pressure, experts are predicting whether WIF will reach $10 by the end of the… Continue reading dogwifhat Price Prediction – Will WIF Hit $10 by Year’s End?\nThe post dogwifhat Price Prediction – Will WIF Hit $10 by …",
+    "url": "https://readwrite.com/dogwifhat-price-prediction-will-wif-hit-10-by-years-end/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/dogwifhat-price-prediction.jpg",
+    "publishedAt": "2024-07-25T18:25:00Z",
+    "content": "With dogwifhat (WIF) price battling bearish pressure, experts are predicting whether WIF will reach $10 by the end of the year or merely sustain its current price of $2.51.\r\nCurrently ranked as the 1… [+3768 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "$99BTC Presale Enters Final Stage – Last Chance to Invest in a Platform Combining Education with Earnings",
+    "description": "The 99Bitcoins presale is in its final stages, concluding on August 6th at 2 PM UTC. This Learn-to-Earn project incentivizes… Continue reading $99BTC Presale Enters Final Stage – Last Chance to Invest in a Platform Combining Education with Earnings\nThe post $…",
+    "url": "https://readwrite.com/99btc-presale-enters-final-stage-last-chance-to-invest-in-a-platform-combining-education-with-earnings/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/99btc-presale-enters-final-stage-last-chance-to-invest-in-a-platform-combining-education-with-earnings.jpg",
+    "publishedAt": "2024-07-31T17:52:39Z",
+    "content": "The 99Bitcoins presale is in its final stages, concluding on August 6th at 2 PM UTC. This Learn-to-Earn project incentivizes users to gain cryptocurrency knowledge by rewarding them.\r\nThis innovative… [+4198 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Haven Orecchio-Egresitz",
+    "title": "As Ryan Salame stares down years in prison for his role in FTX, he's spending his time doing what he loves: posting",
+    "description": "As the FTX insider recovers from a dog attack that delayed his prison sentence, he's posting on X about Sam Bankman-Fried's trial and Donald Trump.",
+    "url": "https://www.businessinsider.com/ryan-salame-posting-ftx-crypto-trump-sbf-awaiting-prison-2024-8",
+    "urlToImage": "https://i.insider.com/66aba1ca1a227600e633758c?width=1200&format=jpeg",
+    "publishedAt": "2024-08-02T11:20:02Z",
+    "content": "Ryan Salame is returned to X ahead of his prison sentence.REUTERS/Brendan McDermid\r\n<ul><li>Ryan Salame was sentenced to 7½ years in prison for his role in the collapse of FTX.</li><li>Awaiting priso… [+11057 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "A Bitcoin mining company plans to buy more Bitcoin by raising $250 million",
+    "description": "Marathon Digital Holdings (MARA), one of the world’s largest Bitcoin mining companies, is looking to increase its Bitcoin holdings by raising $250 million through a private offering of convertible senior notes.Read more...",
+    "url": "https://qz.com/bitcoin-mining-company-raising-250-million-1851619462",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fc690d4b49e90b5d08573d576ca544d8.jpg",
+    "publishedAt": "2024-08-12T14:41:43Z",
+    "content": "In This Story\r\nMarathon Digital Holdings (MARA), one of the worlds largest Bitcoin mining companies, is looking to increase its Bitcoin holdings by raising $250 million through a private offering of … [+1315 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Bitcoin, Bitcoin Cash, Ether, and more: Top crypto to watch this week",
+    "description": "This week will be interesting for the crypto market, as former President and Republican nominee Donald Trump has promised to establish a strategic national Bitcoin reserve if he is elected president in November. In addition, the Fed’s meeting is due on Wednes…",
+    "url": "https://qz.com/top-cryptocurrency-to-watch-this-week-1851607462",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1d04a1df983e25ecdb95418dc60abab5.jpg",
+    "publishedAt": "2024-07-29T14:00:00Z",
+    "content": "Bitcoin Cash (BCH) was created in 2017 after the Bitcoin hard fork. A hard fork is a phenomenon in the blockchain world that happens when the community makes major changes to the blockchain network a… [+526 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Robbie Owens",
+    "title": "North Texas community says crypto-mining facility brings never-ending noise",
+    "description": "A rural Hood County community claims a crypto-mining facility replaced the peaceful quiet with constant noise.",
+    "url": "https://www.cbsnews.com/texas/news/north-texas-community-says-crypto-mining-facility-never-ending-noise-declining-health/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/18/327767dd-5f56-48f6-8cff-76ceeb55ddc5/thumbnail/1200x630/34f09101da669e3795389c24d97e5d53/snapshot-2024-07-17t164718-317.jpg?v=e2b758f558b9b19612f3e16bc7fd9fcc",
+    "publishedAt": "2024-07-24T04:20:30Z",
+    "content": "GRANBURY — A rural Hood County community claims a crypto-mining facility replaced the peaceful quiet of the area with constant noise, and it's affecting their health.\r\nCrypto-mining uses computers an… [+4283 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Rocio Fabbro and Andy Mills",
+    "title": "Donald Trump's Bitcoin promises send the cryptocurrency's price higher",
+    "description": "Trump vowed to establish a strategic national Bitcoin reserve and oust SEC Chair Gary Gensler",
+    "url": "https://qz.com/donald-trump-bitcoin-promises-send-price-to-70-000-1851607727",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/25d97b6d50e10b52bacb05220d2d5b9a.webp",
+    "publishedAt": "2024-07-29T15:36:00Z",
+    "content": "Our free, fast, and fun briefing on the global economy, delivered every weekday morning."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Trump says he'll make a national Bitcoin reserve",
+    "description": "Former President and Republican nominee Donald Trump has promised to establish a strategic national Bitcoin reserve if he gets elected president in November, telling listeners to “never sell your Bitcoin.” Moreover, he announced that he would fire U.S. Securi…",
+    "url": "https://qz.com/trump-promises-bitcoin-reserve-at-the-bitcoin-conferenc-1851607192",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/aaebc0c6b7e80fab7f315a8659b8d14f.png",
+    "publishedAt": "2024-07-28T17:42:00Z",
+    "content": "Former President and Republican nominee Donald Trump has promised to establish a strategic national Bitcoin reserve if he gets elected president in November, telling listeners to never sell your Bitc… [+1876 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rolling Stone"
+    },
+    "author": "Miles Klee",
+    "title": "Crypto Giants Want to Buy Washington. They’re Bankrolling Trump to Make It Happen",
+    "description": "Crypto billionaires are funding Trump. At Bitcoin 2024, he pledged to make America \"the crypto capital\" and appoint industry-friendly regulators.",
+    "url": "http://www.rollingstone.com/politics/politics-features/trump-crypto-billionaires-buying-washington-1235068940/",
+    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/07/trump-bitcoin.jpg?w=1600&h=900&crop=1",
+    "publishedAt": "2024-07-27T20:51:42Z",
+    "content": "Just before the three-day Bitcoin 2024 conference got underway in Nashville this week, Tyler Winklevoss, the bitcoin billionaire who founded the cryptocurrency exchange Gemini with his twin brother C… [+8780 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "RFK Jr. says he stores 'most' of his millions in Bitcoin",
+    "description": "The Bitcoin 2024 conference has become a political arena, and on its second day, independent presidential candidate Robert F. Kennedy Jr. said that he holds most of his wealth in Bitcoin.Read more...",
+    "url": "https://qz.com/rfk-jr-s-claims-most-of-his-wealth-in-bitcoin-1851606602",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6a0799617d588a6cad9c830077eb7be1.jpg",
+    "publishedAt": "2024-07-26T18:31:00Z",
+    "content": "The Bitcoin 2024 conference has become a political arena, and on its second day, independent presidential candidate Robert F. Kennedy Jr. said that he holds most of his wealth in Bitcoin.\r\nThe crypto… [+1108 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Autoblog"
+    },
+    "author": "Insider",
+    "title": "Trump says he has 'no choice' but to support EVs after Elon Musk's endorsement",
+    "description": "Filed under:\n Government/Legal,Green\n Continue reading Trump says he has 'no choice' but to support EVs after Elon Musk's endorsement\nTrump says he has 'no choice' but to support EVs after Elon Musk's endorsement originally appeared on Autoblog on Sun, 4 Aug …",
+    "url": "https://www.autoblog.com/2024/08/04/trump-no-choice-support-electric-vehicles-elon-musk-endorsed/",
+    "urlToImage": "https://edgecast-img.yahoo.net/mysterio/api/00E97AE9658A4570647847018502C89D5884E92071AE6E8815B61AE917095B6D/autoblog/resizefill_w1200_h675;quality_85;format_webp;cc_31536000;/https://s.aolcdn.com/images/dims3/GLOB/crop/803x452 0 0/resize/1200x675/format/jpg/quality/100/https://media.zenfs.com/en/business_insider_articles_888/daf6709f14220278d394e05b8a61b103",
+    "publishedAt": "2024-08-04T18:35:00Z",
+    "content": "Elon Musk, center, meets Donald Trump in the White House in 2017.BRENDAN SMIALOWSKI/Getty Images\r\nFormer President Donald Trump said he had \"no choice\" but to support electric vehicles after Tesla CE… [+2782 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Trump will speak at the Bitcoin conference tomorrow. Here’s what to expect.",
+    "description": "Donald Trump, who has declared himself as a “crypto candidate,” will speak at the Bitcoin Conference in Nashville, Tennessee, tomorrow. While this would be the first time a presidential candidate attends the conference — the world’s biggest annual celebration…",
+    "url": "https://qz.com/trump-speech-at-the-bitcoin-conference-1851602970",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/60da4425380cc4adcf24d8af8b160e68.jpg",
+    "publishedAt": "2024-07-24T09:00:00Z",
+    "content": "Donald Trump, who has declared himself as a crypto candidate, will speak at the Bitcoin Conference in Nashville, Tennessee, tomorrow. While this would be the first time a presidential candidate atten… [+2512 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "No, Kamala Harris will not be speaking at the Bitcoin conference",
+    "description": "Vice President and presumptive Democratic nominee Kamala Harris was asked to speak at the Bitcoin conference in Nashville, Tennessee this week, but she has decided not to attend. Republican presidential nominee Donald Trump is still scheduled to speak at the …",
+    "url": "https://qz.com/kamala-harris-will-not-be-at-the-bitcoin-conference-1851603797",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/04af78db73c5d0a8995d3ff1accc2246.jpg",
+    "publishedAt": "2024-07-24T17:30:00Z",
+    "content": "Vice President and presumptive Democratic nominee Kamala Harris was asked to speak at the Bitcoin conference in Nashville, Tennessee this week, but she has decided not to attend. Republican president… [+3007 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Want to go to Trump's private event at the Bitcoin conference? It will cost you $800,000",
+    "description": "The Bitcoin conference has commenced in Nashville, Tennessee, and the stage is set for watching the intersection of the leading cryptocurrency, Bitcoin, with politics. All eyes are on former President and Republican nominee Donald Trump, who declared himself …",
+    "url": "https://qz.com/trump-bitcoin-conference-ticket-price-800-000-1851605063",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/aad8a7c0c87aaeab0a93368c14fc656e.jpg",
+    "publishedAt": "2024-07-25T17:25:00Z",
+    "content": "The Bitcoin conference has commenced in Nashville, Tennessee, and the stage is set for watching the intersection of the leading cryptocurrency, Bitcoin, with politics. All eyes are on former Presiden… [+3082 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Rocio Fabbro",
+    "title": "Bitcoin is all the way down to $59,000 after a brutal weekend",
+    "description": "Bitcoin is below $60,000 again as an incoming spate of economic indicators prompted a weekend of selloffs.Read more...",
+    "url": "https://qz.com/bitcoin-price-crypto-markets-economic-indicators-cpi-1851619242",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/55195c4aa9d030b1e1b77d546e9303a3.jpg",
+    "publishedAt": "2024-08-12T11:59:00Z",
+    "content": "Bitcoin is below $60,000 again as an incoming spate of economic indicators prompted a weekend of selloffs.\r\nThe leading cryptocurrency traded at around $59,600 on Monday morning, down 1.7% over the l… [+1925 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Coinbase stock is rallying on revenue, and MicroStrategy is piling up Bitcoin",
+    "description": "Coinbase and MicroStrategy, two major crypto-focused firms, released their earnings on Thursday after the closing bell. Crypto exchange Coinbase reported better-than-expected revenue, whereas business intelligence company MicroStrategy, which uses Bitcoin as …",
+    "url": "https://qz.com/coinbase-microstrategy-earnings-reports-1851611440",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7f8e9348b0b4c1e1acf8651758b54670.jpg",
+    "publishedAt": "2024-08-01T22:30:00Z",
+    "content": "Coinbase and MicroStrategy, two major crypto-focused firms, released their earnings on Thursday after the closing bell. Crypto exchange Coinbase reported better-than-expected revenue, whereas busines… [+1837 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Blackrock and other Wall Street giants are entering a decentralized crypto industry. Will they spoil the party?",
+    "description": "BlackRock’s co-founder and CEO, Larry Fink, is increasingly embracing cryptocurrency. In a recent interview, he affirmed that Bitcoin is legitimate and firmly believes that there is a place for cryptocurrency in the average investor’s portfolio.Read more...",
+    "url": "https://qz.com/blackrock-and-others-have-entered-the-crypto-industry-1851598167",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/08c6caedc61349c24c887e2d4c9c79e5.jpg",
+    "publishedAt": "2024-07-19T09:00:00Z",
+    "content": "BlackRocks co-founder and CEO, Larry Fink, is increasingly embracing cryptocurrency. In a recent interview, he affirmed that Bitcoin is legitimate and firmly believes that there is a place for crypto… [+3971 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "William Gavin",
+    "title": "Donald Trump's latest crypto play: $500 Bitcoin sneakers",
+    "description": "A company owned by Donald Trump is selling a limited run of $500 sneakers naming the former president and current Republican nominee the “Crypto President” as he continues his outreach to cryptocurrency fans. Read more...",
+    "url": "https://qz.com/donald-trump-crypto-bitcoin-sneakers-election-big-tech-1851609969",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4edb49ea1df704c0a6e94a8145e257ac.webp",
+    "publishedAt": "2024-07-31T16:38:00Z",
+    "content": "A company owned by Donald Trump is selling a limited run of $500 sneakers naming the former president and current Republican nominee the Crypto President as he continues his outreach to cryptocurrenc… [+2784 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Intercept"
+    },
+    "author": "Liliana Segura",
+    "title": "Bitcoin Bros and the MAGA Faithful Converge in Nashville — and Embrace an Alternate Reality",
+    "description": "Weeks after neo-Nazis marched through the city, attendees at a bitcoin conference laughed off Trump’s racism and authoritarianism.\nThe post Bitcoin Bros and the MAGA Faithful Converge in Nashville — and Embrace an Alternate Reality appeared first on The Inter…",
+    "url": "https://theintercept.com/2024/08/03/trump-nashville-bitcoin-conference/",
+    "urlToImage": "https://theintercept.com/wp-content/uploads/2024/08/GettyImages-2163284570-e1722604851777.jpg?fit=6690%2C3345&w=1200&h=800",
+    "publishedAt": "2024-08-03T10:00:00Z",
+    "content": "It was an hour before the motorcade was set to arrive in downtown Nashville, and the lady in the Trump Save America T-shirt was explaining why she hates Kamala Harris. Im not meaning to say Im a prej… [+14517 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Bitcoin, Ether, Dogecoin, and more: Cryptocurrencies to watch this week",
+    "description": "This week is going to be interesting for the cryptocurrency world as spot Ether ETFs will be launched. Also, the presumptive Republican presidential nominee, Donald Trump, is scheduled to speak at the upcoming Bitcoin Conference in Nashville, Tennessee, which…",
+    "url": "https://qz.com/bitcoin-ether-doge-and-others-crypts-to-watch-1851600833",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2256121fe4ce085de14f00d6efcaa67d.jpg",
+    "publishedAt": "2024-07-22T12:49:55Z",
+    "content": "Popular memecoin Dogecoin is experiencing a surge for several reasons, including the possibility of interest rate cuts in September and the anticipation of a potential pro-crypto stance from Donald T… [+303 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Tech earnings, crypto, and the Fed's interest rate decision: What to watch in the markets this week",
+    "description": "After a volatile week characterized by some economic growth and the intersection of Bitcoin and politics, this week will be focused on what comes next.Read more...",
+    "url": "https://qz.com/tech-earnings-crypto-market-feds-interest-rate-decision-1851606460",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8ca5bf08249e4a7a21006fb888ab3ce1.jpg",
+    "publishedAt": "2024-07-28T09:00:00Z",
+    "content": "After a volatile week characterized by some economic growth and the intersection of Bitcoin and politics, this week will be focused on what comes next.\r\nInvestors will be watching tech giants earning… [+1863 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "William Gavin",
+    "title": "Donald Trump owns at least $1 million in crypto and made millions from NFTs",
+    "description": "Donald Trump’s latest financial disclosure reveals that the former president — who once called Bitcoin a scam — now owns more than $1 million in cryptocurrency. Read more...",
+    "url": "https://qz.com/donald-trump-bitcoin-crypto-holdings-ether-nfts-melania-1851623948",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4b577bef60e3d2b96100471e3644ce82.jpg",
+    "publishedAt": "2024-08-16T13:30:00Z",
+    "content": "Donald Trumps latest financial disclosure reveals that the former president who once called Bitcoin a scam now owns more than $1 million in cryptocurrency. \r\nAccording to his filings, the Republican … [+2354 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Bitcoin, Ether, XRP, and more: Crypto to watch this week",
+    "description": "The cryptocurrency market is in turmoil amid widespread investor panic and looming recession fears. Yet, despite the downturn in the crypto market, some experts are suggesting that now is the time to buy. Read more...",
+    "url": "https://qz.com/bitcoin-ether-xrp-top-crypto-to-watch-this-week-1851613186",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/647f3788ccf88d3e56d80d4bb6cbe098.jpg",
+    "publishedAt": "2024-08-05T15:14:54Z",
+    "content": "Solana, an Ether rival, has fallen over 40% in the last week. The blockchain network hosts many decentralized applications, or dApps, and is known for its speed and cost efficiency. Investors are clo… [+127 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Bitcoin tanks to $66,000 ahead of nail-biter tech earnings",
+    "description": "Bitcoin dropped to $66,000 from nearly $70,000 in a day amidst speculations of tech stock sell-offs this week. On Tuesday, Microsoft and Advanced Micro Devices will report earnings after the bell, followed by Meta’s earnings on Wednesday after the market clos…",
+    "url": "https://qz.com/bitcoin-drops-amid-tech-stock-sell-offs-1851608683",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b7446ae13f8837aed3285f3ad3aa6e5c.jpg",
+    "publishedAt": "2024-07-30T14:20:00Z",
+    "content": "Bitcoin dropped to $66,000 from nearly $70,000 in a day amidst speculations of tech stock sell-offs this week. On Tuesday, Microsoft and Advanced Micro Devices will report earnings after the bell, fo… [+1675 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "AndroidGuys"
+    },
+    "author": "AndroidGuys",
+    "title": "Does Bitcoin Have Smart Contracts?",
+    "description": "Smart contracts make it easy to complete complex deals and agreements on the blockchain. They are most common on newer platforms like Ethereum and Solana. But can you create smart contracts on Bitcoin?  The short answer is yes. Bitcoin does support smart cont…",
+    "url": "https://androidguys.com/news/does-bitcoin-have-smart-contracts/",
+    "urlToImage": "https://i0.wp.com/androidguys.com/wp-content/uploads/2024/08/bitcoin-8629503_1280.jpg?resize=1200%2C724&ssl=1",
+    "publishedAt": "2024-08-15T21:45:56Z",
+    "content": "Smart contracts make it easy to complete complex deals and agreements on the blockchain. They are most common on newer platforms like Ethereum and Solana. But can you create smart contracts on Bitcoi… [+3517 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Sunil Jagtiani",
+    "title": "Big Tech Beats Bitcoin as Unwinding Trump Trade Weighs on Token",
+    "description": "(Bloomberg) -- Bitcoin missed out on a cross-asset rally stoked by dovish Federal Reserve comments as a tightening US election race casts doubt on whether...",
+    "url": "https://finance.yahoo.com/news/big-tech-beats-bitcoin-unwinding-051155943.html",
+    "urlToImage": "https://media.zenfs.com/en/bloomberg_technology_68/53efcfbda8b60cabcbea7a0de1919e71",
+    "publishedAt": "2024-08-01T05:11:55Z",
+    "content": "(Bloomberg) -- Bitcoin missed out on a cross-asset rally stoked by dovish Federal Reserve comments as a tightening US election race casts doubt on whether Donald Trump will get the chance to implemen… [+2412 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Spot Ether ETFs will begin trading soon. Here's why it can surpass Bitcoin.",
+    "description": "This week, the cryptocurrency world will see the launch of spot Ether exchange-traded funds (ETFs), which will let investors put their bets on Ether – the second largest cryptocurrency by market capitalization – in the form of stocks.Read more...",
+    "url": "https://qz.com/spot-ether-etfs-begin-trading-1851601188",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/38c0849826d8d385d3f3c331f385bd11.jpg",
+    "publishedAt": "2024-07-22T04:20:00Z",
+    "content": "This week, the cryptocurrency world will see the launch of spot Ether exchange-traded funds (ETFs), which will let investors put their bets on Ether the second largest cryptocurrency by market capita… [+3700 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Best Multi-Chain Altcoin for High Returns in the Next Bull Run",
+    "description": "Even with some challenges, the bullish market provides great opportunities for investors, especially with new presales like Base Dawgz, which… Continue reading Best Multi-Chain Altcoin for High Returns in the Next Bull Run\nThe post Best Multi-Chain Altcoin fo…",
+    "url": "https://readwrite.com/best-multi-chain-altcoin-for-high-returns-in-the-next-bull-run/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/best-multichain-altcoin.jpg",
+    "publishedAt": "2024-07-23T18:06:27Z",
+    "content": "Even with some challenges, the bullish market provides great opportunities for investors, especially with new presales like Base Dawgz, which can offer potentially high returns.\r\nThe cryptocurrency m… [+4752 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Tamagotchi-Inspired Crypto Presale Nears $6 Million – Could This Be the Next Big GameFi Project?",
+    "description": "A new, unique project combines play-to-earn mechanics with a nostalgic touch, drawing inspiration from the beloved Tamagotchi devices of the… Continue reading Tamagotchi-Inspired Crypto Presale Nears $6 Million – Could This Be the Next Big GameFi Project?\nThe…",
+    "url": "https://readwrite.com/tamagotchi-inspired-crypto-presale-nears-6-million-could-this-be-the-next-big-gamefi-project/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/tamagotchi-inspired-crypto-presale-nears-6-million.jpg",
+    "publishedAt": "2024-07-30T19:07:59Z",
+    "content": "A new, unique project combines play-to-earn mechanics with a nostalgic touch, drawing inspiration from the beloved Tamagotchi devices of the 90s.\r\nCurrently in its presale phase, PlayDoge has already… [+5280 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "This Layer 2 Blockchain Could Lead Meme Coins Higher This Bull Market as Whales Buy In",
+    "description": "It’s well known that whales often hold the reins to significant profits, leveraging their deep understanding of market trends and… Continue reading This Layer 2 Blockchain Could Lead Meme Coins Higher This Bull Market as Whales Buy In\nThe post This Layer 2 Bl…",
+    "url": "https://readwrite.com/this-layer-2-blockchain-could-lead-meme-coins-higher-this-bull-market-as-whales-buy-in/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/this-layer-2-blockchain-could-lead-meme-coins-higher-this-bull-market-as-whales-buy-in.jpg",
+    "publishedAt": "2024-07-31T17:20:15Z",
+    "content": "It’s well known that whales often hold the reins to significant profits, leveraging their deep understanding of market trends and strategic approaches to achieve substantial gains.\r\nIn contrast, aver… [+4909 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Former Goldman Sachs Analyst Predicts New Profitable Cycle for Meme Coins – Shiba Inu and PlayDoge Are Experts’ Top Picks",
+    "description": "Former Goldman Sachs analyst Murad Mahmudov predicts the meme coin price surge as the start of a profitable cycle, urging… Continue reading Former Goldman Sachs Analyst Predicts New Profitable Cycle for Meme Coins – Shiba Inu and PlayDoge Are Experts’ Top Pic…",
+    "url": "https://readwrite.com/former-goldman-sachs-analyst-predicts-new-profitable-cycle-for-meme-coins-shiba-inu-and-playdoge-are-experts-top-picks/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/former-goldman-sachs-analyst-predicts-new-profitable-cycle-for-meme-coins.jpg",
+    "publishedAt": "2024-07-19T06:34:01Z",
+    "content": "Former Goldman Sachs analyst Murad Mahmudov predicts the meme coin price surge as the start of a profitable cycle, urging traders to invest despite their volatility.\r\nCryptocurrencies faced a tough m… [+4225 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ReadWrite"
+    },
+    "author": "Alvin Hemedez",
+    "title": "Top 3 Meme Coins Poised for a Surge in the Coming Weeks – $DADDY, $WAI, and $DAWGZ",
+    "description": "As fear in the cryptocurrency market begins to fade, prices are expected to rise. For those who monitor cryptocurrency prices… Continue reading Top 3 Meme Coins Poised for a Surge in the Coming Weeks – $DADDY, $WAI, and $DAWGZ\nThe post Top 3 Meme Coins Poised…",
+    "url": "https://readwrite.com/top-3-meme-coins-poised-for-a-surge-in-the-coming-weeks-daddy-wai-and-dawgz/",
+    "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/top-3-meme-coins-that-could-surge-in-the-coming-weeks.jpg",
+    "publishedAt": "2024-07-28T09:33:52Z",
+    "content": "As fear in the cryptocurrency market begins to fade, prices are expected to rise. For those who monitor cryptocurrency prices daily, it may feel like time stands still, with downtrends seeming endles… [+6088 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rohan.ga"
+    },
+    "author": null,
+    "title": "Bring Crypto Back to Currency",
+    "description": "The Problem Crypto becoming a commodity is the single stupidest thing to gain widespread popularity. It’s the paragon of post-neoclassical/postmodern economics. If Adam Smith saw NFTs he would shoot himself.\nWhat I mean is that value is deconstructed to peopl…",
+    "url": "https://rohan.ga/blog/bring-crypto-back-to_currency/",
+    "urlToImage": "https://rohan.ga/images/share.png",
+    "publishedAt": "2024-08-06T22:32:12Z",
+    "content": "The Problem\r\nCrypto becoming a commodity is the single stupidest thing to gain widespread popularity. It’s the paragon of post-neoclassical/postmodern economics. If Adam Smith saw NFTs he would shoot… [+2310 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+    "title": "Donald Trump Suddenly Sends The Bitcoin Price Sharply Higher—Boosting Ethereum, XRP And Crypto",
+    "description": "Bitcoin has suddenly surged toward $70,000 per bitcoin as hype builds ahead of Donald Trump's hotly-anticipated appearance at the Bitcoin 2024 conference...",
+    "url": "https://www.forbes.com/sites/digital-assets/2024/07/27/donald-trump-suddenly-sends-the-bitcoin-price-sharply-higher-boosting-ethereum-xrp-and-crypto/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66a5041bbce30565fca56970/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-07-27T14:45:51Z",
+    "content": "BitcoinBitcoin\r\n has suddenly surged toward $70,000 per bitcoin as hype builds ahead of Donald Trump's hotly-anticipated appearance at the Bitcoin 2024 conference.\r\nSubscribe now to Forbes' CryptoAss… [+2316 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Roger Huang, Contributor, \n Roger Huang, Contributor\n https://www.forbes.com/sites/rogerhuang/",
+    "title": "Will China Unban Bitcoin, Creating A Huge Bitcoin Price Bump?",
+    "description": "China was one of the first countries to recognize Bitcoin's threat to its model, from tight capital controls to control of energy.",
+    "url": "https://www.forbes.com/sites/digital-assets/2024/07/24/will-china-unban-bitcoin-creating-a-huge-bitcoin-price-bump/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/669ea6e2872d5c5e395ac64a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-07-24T14:15:00Z",
+    "content": "BEIJING, CHINA - OCTOBER 23: Chinese President Xi Jinping speaks at the podium during the meeting ... [+] between members of the standing committee of the Political Bureau of the 20th CPC Central Com… [+4920 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Max Zahn",
+    "title": "Personal finances of Walz and Vance show stark differences",
+    "description": "Walz does not own a single stock, while Vance invests in dozens of companies.",
+    "url": "https://abcnews.go.com/Business/personal-finances-net-worth-tim-walz-jd-vance-stark-differences/story?id=112674617",
+    "urlToImage": "https://i.abcnewsfe.com/a/2d34f3a9-7c5d-4892-b74a-fadd9e9b58ff/vance-walz1-gty-split-ml-240808_1723136439201_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-08-08T18:16:03Z",
+    "content": "The major party vice presidential nominees -- Democrat Tim Walz and Republican JD Vance -- sharply disagree on a range of issues. The differences in their personal finances are just as stark.\r\nMinnes… [+3096 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Quartz India"
+    },
+    "author": "Vinamrata Chaturvedi",
+    "title": "Sui, Helium, Toncoin, and more: Crypto to watch this week",
+    "description": "Last week, the crypto market was on a rollercoaster ride, with Bitcoin plunging from $70,000 to $50,000 before rebounding to $60,000. This week, several macroeconomic factors could influence the market, with inflation data set to be released on Wednesday.Read…",
+    "url": "https://qz.com/sui-helium-toncoin-crypto-to-watch-this-week-1851619301",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3bb992fde2cc86a8935e756789c8b69b.jpg",
+    "publishedAt": "2024-08-12T13:17:34Z",
+    "content": "Helium (HNT) is a decentralized blockchain-powered network for Internet of Things (IoT) devices, allowing low-powered wireless devices to communicate and send data across a global network of nodes. H… [+413 chars]"
+  }
+]
+}
