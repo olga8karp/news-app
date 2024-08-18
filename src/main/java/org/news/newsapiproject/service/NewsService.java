@@ -1,12 +1,18 @@
 package org.news.newsapiproject.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 import java.util.Set;
+
+import org.news.newsapiproject.entity.Source;
 import org.news.newsapiproject.model.ArticleDTO;
 import org.news.newsapiproject.model.ArticlePageable;
 import org.news.newsapiproject.model.Paging;
+import org.news.newsapiproject.model.SourcesResponse;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
@@ -73,6 +79,13 @@ public class NewsService {
         } catch (JsonProcessingException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    public List<Source> getSources() {
+        Map<String, String> vars = new HashMap<>();
+        vars.put("apiKey", apiKey);
+        SourcesResponse response = restTemplate.getForObject("https://newsapi.org/v2/top-headlines/sources?apiKey={apiKey}", SourcesResponse.class, vars);
+        return response.getSources();
     }
 
 }
