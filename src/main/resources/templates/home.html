@@ -3,7 +3,29 @@
 <head th:replace="~{fragments/header-fragment.html :: head}"></head>
 <body>
 <form th:action="@{/findArticles}" class="row">
-  <input type="text" name="query">
+  <input id="query" type="text" name="query">
+  <select id="country" name="country">>
+    <option value="">--Select Country--</option>
+    <option th:each="country : ${countries}"
+            th:value="${country.key}"
+            th:text="${country.value}">
+    </option>
+  </select>
+  <select id="language" name="language">>
+    <option value="">--Select Language--</option>
+    <option th:each="language : ${languages}"
+            th:value="${language.key}"
+            th:text="${language.value}">
+    </option>
+  </select>
+  <select id="source" name="source">>
+    <option value="">--Select Source--</option>
+    <option th:each="source : ${sources}"
+            th:value="${source.id}"
+            th:text="${source.name}">
+    </option>
+  </select>
+
   <button type="submit">Search</button>
 </form>
 

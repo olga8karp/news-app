@@ -20,23 +20,25 @@ public class HomePageController {
 
     @RequestMapping("/")
     public String getHomePage(Model model) {
+        setFilterOptions(model);
         model.addAttribute("articles", null);
-        model.addAttribute("languages", null);
-        model.addAttribute("sources", null);
-        model.addAttribute("countries", null);
         return "home";
     }
 
     @RequestMapping("/findArticles")
     public String findArticles(Model model, @RequestParam("query") String query) {
+        setFilterOptions(model);
         Set<ArticleDTO> articleDTOS = newsApiClient.getAllArticles(query);
         model.addAttribute("articles", articleDTOS);
+        return "home";
+    }
+
+    private void setFilterOptions(Model model) {
         List<Source> sources = newsApiClient.getSources();
         model.addAttribute("sources", sources);
         Languages languages = new Languages();
         model.addAttribute("languages", languages.getLanguages());
         Countries countries = new Countries();
         model.addAttribute("countries", countries.getCountries());
-        return "home";
     }
 }
