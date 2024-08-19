@@ -3,7 +3,7 @@ package org.news.newsapiproject.model;
 import lombok.Getter;
 import org.springframework.stereotype.Component;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 @Getter
@@ -12,7 +12,7 @@ public class Languages {
     Map<String, String> languages;
 
     public Languages() {
-        Map<String, String> languages = new HashMap<>();
+        Map<String, String> languages = new LinkedHashMap<>();
         languages.put("ar", "Argentina");
         languages.put("de", "Germany");
         languages.put("ee", "Estonia");
