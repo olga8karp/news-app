@@ -70,7 +70,6 @@ public class NewsApiClient {
         return UriComponentsBuilder.fromHttpUrl(configurationProperties.getBaseUrl())
                 .path("/top-headlines")
                 .queryParam("country", country)
-                //.queryParam("apiKey", apiKey)
                 .queryParam("page", pageNumber)
                 .queryParam("pageSize", pageSize)
                 .encode()
@@ -81,7 +80,6 @@ public class NewsApiClient {
         return UriComponentsBuilder.fromHttpUrl(configurationProperties.getBaseUrl())
                 .path("/everything")
                 .queryParam("q", query)
-                //.queryParam("apiKey", apiKey)
                 .encode()
                 .toUriString();
     }
@@ -105,7 +103,6 @@ public class NewsApiClient {
     private String createSourcesRequestUrl(String apiKey) {
         return UriComponentsBuilder.fromHttpUrl(configurationProperties.getBaseUrl())
                 .path("/sources")
-                //.queryParam("apiKey", apiKey)
                 .encode()
                 .toUriString();
     }

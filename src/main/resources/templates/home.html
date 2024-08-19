@@ -2,7 +2,6 @@
 <html xmlns:th="https://www.thymeleaf.org">
 <head th:replace="~{fragments/header-fragment.html :: head}"></head>
 <body>
-
 <form th:action="@{/findArticles}" class="row">
   <input type="text" name="query">
   <button type="submit">Search</button>
@@ -16,8 +15,6 @@
     <a th:href="${article.url}" target="_blank">Read more</a>
   </div>
 </div>
-
-
 </body>
 </html>
 
