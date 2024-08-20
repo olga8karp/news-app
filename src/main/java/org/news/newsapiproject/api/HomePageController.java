@@ -10,6 +10,8 @@ import org.news.newsapiproject.model.Languages;
 import org.news.newsapiproject.service.NewsApiClient;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
@@ -18,18 +20,29 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class HomePageController {
     private NewsApiClient newsApiClient;
 
-    @RequestMapping("/")
+    @GetMapping("/")
     public String getHomePage(Model model) {
         setFilterOptions(model);
         model.addAttribute("articles", null);
         return "home";
     }
 
-    @RequestMapping("/findArticles")
-    public String findArticles(Model model, @RequestParam("query") String query) {
+    @GetMapping("/findArticles")
+    public String findArticles(
+            Model model,
+            @RequestParam("query") String query,
+            @RequestParam("country") String country,
+            @RequestParam("language") String language,
+            @RequestParam("source") String source
+
+    ) {
         setFilterOptions(model);
-        Set<ArticleDTO> articleDTOS = newsApiClient.getAllArticles(query);
-        model.addAttribute("articles", articleDTOS);
+        if (query == null || query.isEmpty()) {
+            model.addAttribute("error", "Required parameters are missing");
+        } else {
+            Set<ArticleDTO> articleDTOS = newsApiClient.getAllArticles(query);
+            model.addAttribute("articles", articleDTOS);
+        }
         return "home";
     }
 
