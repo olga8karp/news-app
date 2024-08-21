@@ -32,8 +32,6 @@ public class NewsApiClient {
     private final NewsApiConfigurationProperties configurationProperties;
     private final NewsParser parser;
 
-    private String apiKey;
-
     public NewsApiClient(
             RestTemplateBuilder restTemplateBuilder,
             NewsApiConfigurationProperties configurationProperties,
@@ -43,11 +41,10 @@ public class NewsApiClient {
                 .build();
         this.configurationProperties = configurationProperties;
         this.parser = parser;
-        this.apiKey = configurationProperties.getApiKey();
     }
 
     public ArticlePageable getTopHeadlines(String country, Pageable pageable) {
-        String url = createRequestUrl(country, apiKey, pageable.getPageNumber(), pageable.getPageSize());
+        String url = createRequestUrl(country, pageable.getPageNumber(), pageable.getPageSize());
         String jsonResponse = restTemplate.getForObject(url, String.class);
 
         try {
@@ -66,7 +63,7 @@ public class NewsApiClient {
         }
     }
 
-    private String createRequestUrl(String country, String apiKey, int pageNumber, int pageSize) {
+    private String createRequestUrl(String country, int pageNumber, int pageSize) {
         return UriComponentsBuilder.fromHttpUrl(configurationProperties.getBaseUrl())
                 .path("/top-headlines")
                 .queryParam("country", country)
@@ -76,7 +73,7 @@ public class NewsApiClient {
                 .toUriString();
     }
 
-    private String createEverythingRequest(String query, String apiKey){
+    private String createEverythingRequest(String query){
         return UriComponentsBuilder.fromHttpUrl(configurationProperties.getBaseUrl())
                 .path("/everything")
                 .queryParam("q", query)
@@ -85,7 +82,7 @@ public class NewsApiClient {
     }
 
     public Set<ArticleDTO> getAllArticles(String query) {
-        String url = createEverythingRequest(query, apiKey);
+        String url = createEverythingRequest(query);
         String jsonResponse = restTemplate.getForObject(url, String.class);
         try {
             return parser.parseNewsArticles(jsonResponse);
@@ -95,12 +92,12 @@ public class NewsApiClient {
     }
 
     public List<Source> getSources() {
-        String url = createSourcesRequestUrl(apiKey);
+        String url = createSourcesRequestUrl();
         SourcesResponse response = restTemplate.getForObject(url, SourcesResponse.class);
         return response.getSources();
     }
 
-    private String createSourcesRequestUrl(String apiKey) {
+    private String createSourcesRequestUrl() {
         return UriComponentsBuilder.fromHttpUrl(configurationProperties.getBaseUrl())
                 .path("/sources")
                 .encode()
